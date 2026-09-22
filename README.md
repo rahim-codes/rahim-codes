@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1376" height="700" alt="banner" src="https://github.com/user-attachments/assets/2983d31c-5dbb-4c72-90e8-8fa3c3420a90" />
+<img width="1376" height="750" alt="banner" src="https://github.com/user-attachments/assets/2983d31c-5dbb-4c72-90e8-8fa3c3420a90" />
 
   # Hi there, I'm Abdur Rahim 👋
   ### 👨‍💻 Full-Stack / Web Developer
