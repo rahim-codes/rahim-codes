@@ -56,8 +56,8 @@
 ### 📫 Connect with Me
 
 - 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
-- 🌐 **Portfolio:** [your-portfolio.vercel.app](https://your-portfolio.vercel.app)
-- 📧 **Email:** your-email@example.com
+- 🌐 **Portfolio:** [your-portfolio.vercel.app](https://rahimvi56.vercel.app/)
+- 📧 **Email:** rahimvi414@gmail.com
 
 ---
 
